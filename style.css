@@ -1,0 +1,30 @@
+body {
+  font-family: arial;
+  font-size: 15px;
+  background: repeating-linear-gradient(#ffc6cd, #cee8e5 150px);
+}
+
+h1 {
+  text-align: center;
+}
+
+.comprar {
+  background: #a8f;
+  color: #103;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.item {
+  background: #f1f1f1;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 0px;
+}
